@@ -2,7 +2,7 @@
 service: hapi_poc
 
 # Name of the container image.
-image: jvelascoiti/hapi-poc
+image: jvelascoiti/ejercicio-kamal
 
 # Deploy to these servers.
 servers:
