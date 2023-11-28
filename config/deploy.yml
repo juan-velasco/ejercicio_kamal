@@ -1,12 +1,13 @@
 # Name of your application. Used to uniquely configure containers.
-service: hapi_poc
+service: ejercicio-kamal
 
 # Name of the container image.
 image: jvelascoiti/ejercicio-kamal
 
 # Deploy to these servers.
 servers:
-  - 64.227.66.38
+  - 178.128.243.239
+  - 178.128.246.206
 
 # Credentials for your image host.
 registry:
