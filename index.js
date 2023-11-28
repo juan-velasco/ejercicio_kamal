@@ -14,7 +14,7 @@ const init = async () => {
         path: '/',
         handler: (request, h) => {
 
-            return 'Hello World from new version!';
+            return 'Hello World from new version again!';
         }
     });
 
